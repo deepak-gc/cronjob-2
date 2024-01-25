@@ -1,3 +1,4 @@
+namespace: cron2
 resources:
   - namespace.yaml
   - deployment.yaml
